@@ -2,8 +2,8 @@ import os
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://vebop71691:GtrOdO2tT8v6Yh9q@cluster0.bep2m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DATABASE_NAME", "Spidey")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://anujedits:anujedits@cluster0.tc5voup.mongodb.net/?appName=Cluster0")
+DB_NAME = os.environ.get("DATABASE_NAME", "Anujedits")
 
 #Shortner (token system) 
 # check my discription to help by using my refer link of shareus.io
